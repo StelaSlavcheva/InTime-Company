@@ -93,14 +93,16 @@ body {
 
 .welcome-title {
     color: #434343;
-    font-size: 50px;
+    font-size: 44px;
+    font-weight:300;
     text-align: center;
     margin-bottom: 20px;
 }
 
 .welcome-title span {
     color: #434343;
-    font-size: 50px;
+    font-size: 44px;
+    font-weight:300;
     border-bottom: 5px solid #008cba;
 }
 
@@ -129,7 +131,8 @@ body {
 
 .services-title {
     text-align: center;
-    font-size: 50px;
+    font-size: 44px;
+    font-weight:300;
     color: #434343;
     padding-top: 50px;
 }
@@ -203,7 +206,7 @@ body {
 
 .subscribe-title {
     color: white;
-    font-size: 45px;
+    font-size: 4px;
     text-align: center;
     font-weight: 300;
     margin-bottom: 15px;
@@ -211,7 +214,7 @@ body {
 
 .subscribe-title span {
     color: white;
-    font-size: 45px;
+    font-size: 44px;
     border-bottom: 4px solid white;
     font-weight: 300;
 }
